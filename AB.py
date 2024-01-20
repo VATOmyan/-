@@ -9,7 +9,7 @@ NUM = 1
 d = datetime.datetime.now()
 DT = d.strftime('%H:%M:%S')
 print(DT)
-token = "6574968034:AAEoxdxZe6zBm7_kvmOsLdNKkwIushzecqs"
+token = ""
 bot = telebot.TeleBot(token)
 
 chated = [1,2]
